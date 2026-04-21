@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import heroBg from '@assets/IMG_7941_1776755309844.jpeg';
 import { useIntersectionObserver } from '@/hooks/use-intersection-observer';
 import { ChevronDown, Quote, Menu, X, Facebook, Twitter, Instagram } from 'lucide-react';
 
@@ -121,7 +122,7 @@ export default function Home() {
         <div
           className="absolute inset-0 z-0 bg-cover"
           style={{
-            backgroundImage: `url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kartini2.jpg/450px-Kartini2.jpg')`,
+            backgroundImage: `url('${heroBg}')`,
             backgroundPosition: 'center top',
             transform: `translateY(${offsetY * 0.3}px)`,
           }}
