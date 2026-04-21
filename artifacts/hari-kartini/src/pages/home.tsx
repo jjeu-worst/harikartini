@@ -36,7 +36,7 @@ const galleryItems = [
     subtitle: 'Keindahan Busana Jawa'
   },
   { 
-    url: 'https://kommodo.ai/i/VxM1Hxz67HESLs3xpPgX',
+    url: 'https://img.sanishtech.com/u/2c14c721449299105b51e3459ca3353f.jpeg',
     title: 'Perpustakaan & Literasi',
     subtitle: 'Warisan Semangat Pendidikan'
   },
