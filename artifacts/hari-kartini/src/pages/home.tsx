@@ -15,17 +15,17 @@ const timelineEvents = [
 
 const galleryItems = [
   { 
-    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kartini2.jpg/450px-Kartini2.jpg',
+    url: 'https://www.image2url.com/r2/default/images/1776756308466-b1029854-90ee-49d6-89ff-d1a832fc1fc0.jpeg',
     title: 'Raden Ajeng Kartini',
     subtitle: 'Pahlawan Emansipasi Wanita Indonesia'
   },
   { 
-    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Adjeng_Kartini_TMnr_60047247.jpg/401px-COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Adjeng_Kartini_TMnr_60047247.jpg',
+    url: 'https://www.image2url.com/r2/default/images/1776755969598-242bcf15-660b-48b8-b69b-e3d29ad7fb80.jpeg',
     title: 'Potret Bersejarah',
     subtitle: 'Koleksi Tropenmuseum, Belanda'
   },
   { 
-    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/R.A._Kartini.jpg/400px-R.A._Kartini.jpg',
+    url: 'https://www.image2url.com/r2/default/images/1776756208288-e146f7fe-4694-4a1a-b8bb-6fda55964ab0.jpeg',
     title: 'R.A. Kartini',
     subtitle: 'Jepara, 1879–1904'
   },
