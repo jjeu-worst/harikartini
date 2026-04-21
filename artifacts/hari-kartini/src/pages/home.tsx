@@ -30,12 +30,12 @@ const galleryItems = [
     subtitle: 'Jepara, 1879–1904'
   },
   { 
-    url: 'https://images.unsplash.com/photo-1519744346361-7a029b427a59?w=600&q=80',
+    url: 'https://www.image2url.com/r2/default/images/1776756278950-32b757e6-aa37-42ba-83d0-e5aac402d034.jpeg',
     title: 'Kebaya Tradisional',
     subtitle: 'Keindahan Busana Jawa'
   },
   { 
-    url: 'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&q=80',
+    url: 'https://kommodo.ai/i/VxM1Hxz67HESLs3xpPgX',
     title: 'Perpustakaan & Literasi',
     subtitle: 'Warisan Semangat Pendidikan'
   },
